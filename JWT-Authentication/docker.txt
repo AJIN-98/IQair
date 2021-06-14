@@ -1,0 +1,6 @@
+ps -a ----------->running files
+
+docker images------------->for image view
+
+docker run -p 3308:3306 --name
+Batman@007#@
